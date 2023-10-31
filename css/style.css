@@ -5,3 +5,24 @@
     box-sizing: border-box;
     font-family: 'PT Sans', sans-serif;
 }
+
+body {
+    background-color: violet;
+}
+
+
+/* header css */
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1400px;
+    background-color: blue;
+}
+
+.navbar {
+    justify-content: space-between;
+}
